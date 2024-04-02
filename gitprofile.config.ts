@@ -77,6 +77,42 @@ const CONFIG = {
   experiences: [
   ],
   certifications: [
+    {
+      name: 'AWS Certified Developer - Associate',
+      body: 'Amazon Web Services',
+      year: 'Dec 2023',
+      link: 'https://www.credly.com/badges/5ac73561-9da4-4d3b-9701-d6a31262fda6',
+    },
+    {
+      name: 'AWS Certified Solutions Architect - Associate',
+      body: 'Amazon Web Services',
+      year: 'Dec 2020',
+      link: 'https://www.credly.com/badges/e9c6dd36-7b12-4723-a59d-98412826504d',
+    },
+    {
+      name: 'AWS Certified Cloud Practitioner',
+      body: 'Amazon Web Services',
+      year: 'May 2019',
+      link: 'https://www.credly.com/badges/5dca9be8-6844-4e45-8c12-17400d6ae624',
+    },
+    {
+      name: 'CompTIA Linux+ ce Certification',
+      body: 'CompTIA',
+      year: 'Oct 2018',
+      link: 'https://www.credly.com/badges/5ac73561-9da4-4d3b-9701-d6a31262fda6',
+    },
+    {
+      name: 'ITIL® Foundation Certificate in IT Service Management',
+      body: 'Axelos/PeopleCert (GR671378972BD)',
+      year: 'Mar 2022',
+      link: 'https://www.peoplecert.org/for-corporations/certificate-verification-service',
+    },
+    {
+      name: 'Azure AZ-900',
+      body: 'Microsoft',
+      year: 'Jan 2024',
+      link: 'https://learn.microsoft.com/en-us/users/bradduncan/credentials/7258686557668e3c',
+    },
   ],
   educations: [
   ],
