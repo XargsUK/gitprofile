@@ -38,7 +38,7 @@ const CONFIG = {
   social: {
     linkedin: 'braddunc',
     twitter: '',
-    mastodon: '',
+    mastodon: 'xargsuk@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
